@@ -1,0 +1,17 @@
+C:\Users\adeka\Source\Repos\ServiceStackDeneme\ServiceStackDeneme\obj\Debug\ServiceStackDeneme.csprojAssemblyReference.cache
+C:\Users\adeka\Source\Repos\ServiceStackDeneme\ServiceStackDeneme\obj\Debug\ServiceStackDeneme.csproj.CoreCompileInputs.cache
+C:\Users\adeka\Source\Repos\ServiceStackDeneme\ServiceStackDeneme\bin\Debug\ServiceStackDeneme.exe.config
+C:\Users\adeka\Source\Repos\ServiceStackDeneme\ServiceStackDeneme\bin\Debug\ServiceStackDeneme.exe
+C:\Users\adeka\Source\Repos\ServiceStackDeneme\ServiceStackDeneme\bin\Debug\ServiceStackDeneme.pdb
+C:\Users\adeka\Source\Repos\ServiceStackDeneme\ServiceStackDeneme\bin\Debug\ServiceStack.Client.dll
+C:\Users\adeka\Source\Repos\ServiceStackDeneme\ServiceStackDeneme\bin\Debug\ServiceStack.Common.dll
+C:\Users\adeka\Source\Repos\ServiceStackDeneme\ServiceStackDeneme\bin\Debug\ServiceStack.dll
+C:\Users\adeka\Source\Repos\ServiceStackDeneme\ServiceStackDeneme\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\adeka\Source\Repos\ServiceStackDeneme\ServiceStackDeneme\bin\Debug\ServiceStack.Text.dll
+C:\Users\adeka\Source\Repos\ServiceStackDeneme\ServiceStackDeneme\bin\Debug\ServiceStack.xml
+C:\Users\adeka\Source\Repos\ServiceStackDeneme\ServiceStackDeneme\bin\Debug\ServiceStack.Client.xml
+C:\Users\adeka\Source\Repos\ServiceStackDeneme\ServiceStackDeneme\bin\Debug\ServiceStack.Common.xml
+C:\Users\adeka\Source\Repos\ServiceStackDeneme\ServiceStackDeneme\bin\Debug\ServiceStack.Text.xml
+C:\Users\adeka\Source\Repos\ServiceStackDeneme\ServiceStackDeneme\obj\Debug\ServiceStackDeneme.csproj.CopyComplete
+C:\Users\adeka\Source\Repos\ServiceStackDeneme\ServiceStackDeneme\obj\Debug\ServiceStackDeneme.exe
+C:\Users\adeka\Source\Repos\ServiceStackDeneme\ServiceStackDeneme\obj\Debug\ServiceStackDeneme.pdb
